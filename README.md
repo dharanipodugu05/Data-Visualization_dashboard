@@ -3,7 +3,7 @@
 This is my final term project for the Data Visualization course at UCM (University of Central Missouri).
 
 ## 📁 Contents
-- `climate_dashboard.R`: Main python script
+- `climate_dashboard`: Main python script
 - `timeseries data.csv`: Dataset from kaggle
 - `figures/`: Output charts used for storytelling
 - `presentation.pptx`: Final presentation
