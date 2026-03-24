@@ -1,6 +1,6 @@
 # Climate Data Visualization Project 🌍📊
 
-This is my final term project for the Data Visualization course at UCM (University of Central Missouri).
+This is my final term project for Data Visualization course at UCM (University of Central Missouri).
 
 ## 📁 Contents
 - `climate_dashboard`: Main python script
